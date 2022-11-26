@@ -1,0 +1,11 @@
+D:\programs\calculator by mo amin\calculator by mo amin\bin\Debug\calculator by mo amin.exe.config
+D:\programs\calculator by mo amin\calculator by mo amin\bin\Debug\calculator by mo amin.exe
+D:\programs\calculator by mo amin\calculator by mo amin\bin\Debug\calculator by mo amin.pdb
+D:\programs\calculator by mo amin\calculator by mo amin\obj\Debug\calculator by mo amin.csproj.AssemblyReference.cache
+D:\programs\calculator by mo amin\calculator by mo amin\obj\Debug\calculator by mo amin.csproj.SuggestedBindingRedirects.cache
+D:\programs\calculator by mo amin\calculator by mo amin\obj\Debug\calculator_by_mo_amin.Form1.resources
+D:\programs\calculator by mo amin\calculator by mo amin\obj\Debug\calculator_by_mo_amin.Properties.Resources.resources
+D:\programs\calculator by mo amin\calculator by mo amin\obj\Debug\calculator by mo amin.csproj.GenerateResource.cache
+D:\programs\calculator by mo amin\calculator by mo amin\obj\Debug\calculator by mo amin.csproj.CoreCompileInputs.cache
+D:\programs\calculator by mo amin\calculator by mo amin\obj\Debug\calculator by mo amin.exe
+D:\programs\calculator by mo amin\calculator by mo amin\obj\Debug\calculator by mo amin.pdb
